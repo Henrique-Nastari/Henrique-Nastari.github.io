@@ -1,0 +1,3 @@
+# app-ads.txt - 2048 Classic (com.hcn2048.game)
+# AdMob publisher ID: pub-1879888069029511
+google.com, pub-1879888069029511, DIRECT, f08c47fec0942fa0
